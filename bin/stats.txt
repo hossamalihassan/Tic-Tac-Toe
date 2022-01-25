@@ -1,0 +1,4 @@
+games played...24    
+computer wins...4          
+player wins...6          
+total draws...3          
