@@ -1,5 +1,4 @@
-# Tic-Tac-Toe
-
+# Tic-Tac-Toe (College Project)
 **Features**
 > Player vs Player
 > 
